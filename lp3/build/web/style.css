@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color:white;
+/*    width: 960px;*/
+    margin: 0;
+    padding: 0;
+}
+
+#vai{
+    margin: 0 auto;
+    width: 960px;
+    background-color: #ccc;
+}
+
+form{
+    margin:0 auto;
+    width: 480px;
+}
